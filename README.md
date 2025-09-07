@@ -1,19 +1,24 @@
 <!-- ——————————————————————————— -->
-<!--   Advanced GitHub Profile README for Parham Dehghan   -->
+<!--     Parham Dehghan - Animated GitHub Profile README   -->
 <!-- ——————————————————————————— -->
+
+<!-- Waving Hand Animation -->
+<h1 align="center">
+  Hey there, I'm Parham Dehghan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">
+</h1>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Parham+Dehghan+👋;AI+Engineer+%7C+Python+Developer+%7C+Data+Scientist;Building+Intelligent+%26+Data-Driven+Solutions+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineer+🤖;Python+Developer+🐍;Data+Scientist+📊;Blockchain+Explorer+⛓;Open+Source+Contributor+🌍" alt="Typing Animation" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Computer Engineering (AI specialization) student  
-- 🤖 Passionate about **Machine Learning, Deep Learning, and Blockchain**  
-- 🚀 Always working on innovative **Open Source projects**  
-- 🌍 Vision: **AI that makes a real-world impact**  
+### 🧑‍💻 About Me
+- 🎓 Computer Engineering student (AI specialization)  
+- 💡 Passionate about **AI, Computer Vision, and Blockchain**  
+- 🚀 Always working on innovative **Open Source Projects**  
+- 🌍 Dream: Build AI that **changes lives**  
 
 ---
 
@@ -26,21 +31,23 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parham-Dehghan&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parham-Dehghan&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Parham-Dehghan&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parham-Dehghan&theme=radical&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parham-Dehghan&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parham-Dehghan&layout=compact&theme=radical&hide_border=true" height="160" />
 </p>
 
 ---
 
 ### 🌟 Featured Projects
-- 🦾 **AI Blind Project** → Assistive Vision AI for the visually impaired (YOLO, BLIP, Gemma)  
-- 📊 **NY ATM Analysis** → Banking transaction analysis with ML  
-- 🤖 **Simple-RAG-LLMOps** → Lightweight Retrieval-Augmented Generation framework  
-- ⚡ **XGBoost Classifier** → Advanced ML pipeline with feature engineering  
+⭐ A few projects I’m proud of:  
+
+- 🦾 **AI Blind Project** → Vision AI assistant for the visually impaired (YOLO, BLIP, Gemma)  
+- 📊 **NY ATM Analysis** → Advanced data analytics on financial transactions  
+- 🤖 **Simple-RAG-LLMOps** → Lightweight RAG for Large Language Models  
+- ⚡ **XGBoost Classifier** → End-to-end ML training pipeline  
 - 🖐 **Hamoco** → Real-time Hand Gesture Mouse Controller (OpenCV + Mediapipe)  
 
 ---
@@ -55,15 +62,28 @@
 
 ---
 
-### 🐍 Snake Eating My Contribution Graph
+### 🐍 Snake Eating My Contributions
 <p align="center">
-  <img src="https://github.com/Parham-Dehghan/Parham-Dehghan/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/Parham-Dehghan/Parham-Dehghan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-### ⚡ Fun Fact
-> “Coding = Creativity ✨  
-> Every line of code has the power to change the world.”  
+### 🌈 Fun Animations
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" />
+</p>
+
+---
+
+### ⚡ Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ---
